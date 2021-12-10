@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78443" started-at="2021-12-04T13:03:04 IST" finished-at="2021-12-04T13:04:22 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78443" started-at="2021-12-04T13:03:04 IST" finished-at="2021-12-04T13:04:22 IST">
+      <class name="com.tests.locators.TestLocatorXpath">
+        <test-method status="PASS" signature="TestLocatorXpathMethod()[pri:0, instance:com.tests.locators.TestLocatorXpath@43bd930a]" name="TestLocatorXpathMethod" duration-ms="20770" started-at="2021-12-04T13:04:01 IST" finished-at="2021-12-04T13:04:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLocatorXpathMethod -->
+      </class> <!-- com.tests.locators.TestLocatorXpath -->
+      <class name="com.tests.locators.TestLocatorID">
+        <test-method status="PASS" signature="TestLocators()[pri:0, instance:com.tests.locators.TestLocatorID@192d3247]" name="TestLocators" duration-ms="12538" started-at="2021-12-04T13:03:28 IST" finished-at="2021-12-04T13:03:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLocators -->
+      </class> <!-- com.tests.locators.TestLocatorID -->
+      <class name="com.tests.locators.TestLocatorCssSelector">
+        <test-method status="PASS" signature="TestLocactorscss()[pri:0, instance:com.tests.locators.TestLocatorCssSelector@69b0fd6f]" name="TestLocactorscss" duration-ms="24101" started-at="2021-12-04T13:03:04 IST" finished-at="2021-12-04T13:03:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLocactorscss -->
+      </class> <!-- com.tests.locators.TestLocatorCssSelector -->
+      <class name="com.tests.locators.TestLocatorName">
+        <test-method status="PASS" signature="TestLocatorNamemethod()[pri:0, instance:com.tests.locators.TestLocatorName@569cfc36]" name="TestLocatorNamemethod" duration-ms="20940" started-at="2021-12-04T13:03:41 IST" finished-at="2021-12-04T13:04:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLocatorNamemethod -->
+      </class> <!-- com.tests.locators.TestLocatorName -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
