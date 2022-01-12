@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="MultiBrowserTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.testNG.multibrowser.MultiBrowserTest">
+        <methods>
+          <include name="login"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.testNG.multibrowser.MultiBrowserTest -->
+    </classes>
+  </test> <!-- MultiBrowserTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
